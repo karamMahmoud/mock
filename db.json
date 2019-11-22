@@ -1,0 +1,17 @@
+[
+        {
+            "name": "soad",
+            "powers": "React",
+            "rating":"1"
+        },
+        {
+            "name": "mohamed",
+            "powers": "Angular",
+            "rating":"3"
+        },
+        {
+            "name": "karam",
+            "powers": "coding with vim",
+            "rating":"4"
+        }
+]
